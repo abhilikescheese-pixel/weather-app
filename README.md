@@ -26,6 +26,8 @@ key features:
 
 - I learned how to make a weather app with using an api
 
+- if you want to us the weather app for yourself please check out my itch.io page-  https://abhi-cool.itch.io/weather-checker -
+
 ill like to thank kenny yip code for the tutorial - https://www.youtube.com/watch?v=iED55_Q-AvY&list=PLnKe36F30Y4YDWdgm_98pFCnw66RzLkic&index=56 -
 
 
